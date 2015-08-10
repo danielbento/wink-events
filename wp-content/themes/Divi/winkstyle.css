@@ -1,0 +1,11 @@
+#servicos h2{
+    font-size: 2em;
+    font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 300;
+}
+
+#servicos img{
+	height: 400px;
+}
+
+.et_pb_promo_button{background-color: red !important;}
